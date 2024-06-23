@@ -1,0 +1,4 @@
+application:
+  name: app-test-log
+masks:
+  cpf: "cpf"
